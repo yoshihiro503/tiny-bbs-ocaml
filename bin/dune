@@ -1,0 +1,4 @@
+(executable
+ (public_name aibbsocaml)
+ (name main)
+ (libraries aibbsocaml))
