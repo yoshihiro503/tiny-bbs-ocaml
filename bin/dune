@@ -1,4 +1,4 @@
 (executable
  (public_name aibbsocaml)
  (name main)
- (libraries aibbsocaml))
+ (libraries cohttp lwt cohttp-lwt-unix mustache sqlite3))
